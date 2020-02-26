@@ -13,3 +13,6 @@ time complexity: O(max (m,n)) m=height, m=width
 space complexity: O(1)
 ![method 2](method2.jpg)
 
+# Code
+[main function](https://github.com/boyuandong/JavaAlogrithm-/blob/master/Code/SearchIn2DMatrix/SearchIn2DMatrix/src/Main.java)
+[Solution](https://github.com/boyuandong/JavaAlogrithm-/blob/master/Code/SearchIn2DMatrix/SearchIn2DMatrix/src/Solution.java)
