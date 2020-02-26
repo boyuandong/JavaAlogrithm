@@ -5,8 +5,9 @@ queue is first in first out, while stack is first in last out. By making use of 
 
 ![](method.jpg)
 
-##Code:
-[Main](https://github.com/boyuandong/JavaAlogrithm-/blob/master/Code/StackToQueue/StackToQueue/src/Main.java)
+## Code:
+[Main](https://github.com/boyuandong/JavaAlogrithm-/blob/master/Code/StackToQueue/src/Main.java)
 
-[MyQueue](https://github.com/boyuandong/JavaAlogrithm-/blob/master/Code/StackToQueue/StackToQueue/src/MyQueue.java)
+[MyQueue](https://github.com/boyuandong/JavaAlogrithm-/blob/master/Code/StackToQueue/src/MyQueue.java)
+
 
